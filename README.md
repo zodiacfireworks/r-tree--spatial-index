@@ -7,7 +7,7 @@ Abre una terminal (Anaconda prompt si estas en windows) y navega hacia la carpet
 Crear en environment con esta linea de comandos despues de clonar el repo
 
 ```sh
-conda env create -f requirements_conda.yml
+conda env create -f environment.yml
 ```
 
 Activa el environment
