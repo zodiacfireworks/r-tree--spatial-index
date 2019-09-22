@@ -1,0 +1,12 @@
+name: r-tree
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - osmnx
+  - pandas
+  - geopandas
+  - descartes
+  - shapely
+  - seaborn
+  - jupyterlab
